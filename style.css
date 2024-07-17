@@ -41,6 +41,7 @@ input {
   font-size: 35px;
   text-align: right;
   cursor: pointer;
+  font-family: 'Courier New', Courier, monospace;
 }
 input::placeholder{
   color: #fff;
