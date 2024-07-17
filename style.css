@@ -34,14 +34,15 @@ body {
 input {
   margin-bottom: 60px;
   width: 290px;
+  color: #fff;
   border: 1px solid rgb(108, 108, 108);
   padding: 3px;
   background: transparent;
-  box-shadow: 0px 0px 14px -2px;
+  box-shadow: 0px 0px 14px -2px black;
   font-size: 35px;
   text-align: right;
   cursor: pointer;
-  font-family: 'Courier New', Courier, monospace;
+ font-family: 'Courier New', Courier, monospace;
 }
 input::placeholder{
   color: #beb7b7bf;
@@ -69,13 +70,13 @@ input::placeholder{
   color: rgb(126, 255, 5);
   
 }
-.bgimg{
-    /* background-image: url(/img/img\ bg.jpg);
+/* .bgimg{
+    background-image: url(/img/img\ bg.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
-background-size: cover; */
+background-size: cover;
 
-}
+} */
 button:hover{
   background-color: rgba(2, 66, 127, 0.746);
 }
