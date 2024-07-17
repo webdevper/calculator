@@ -44,7 +44,8 @@ input {
   font-family: 'Courier New', Courier, monospace;
 }
 input::placeholder{
-  color: #fff;
+  color: #beb7b7bf;
+  
 }
  button{
   border: none;
